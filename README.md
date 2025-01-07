@@ -9,4 +9,4 @@ This dashboard allows interactive comparison of stochastic dominance tests and v
 3. Run the app: `shiny::runApp()`
 
 ## Hosted Version:
-Check out the live version [here](https://<mohsenrahimi>.shinyapps.io/<app-name>/)
+Check out the live version [here](https://mohsenrahimi.shinyapps.io/shiny-stochastic-dominance/)
